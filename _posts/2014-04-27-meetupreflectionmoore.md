@@ -1,4 +1,4 @@
-x66x6x---
+---
 layout: postcd 
 author: srmoore5
 title: Sierra Meet-up Reflection
