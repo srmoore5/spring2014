@@ -1,5 +1,5 @@
----
-layout: post
+x66x6x---
+layout: postcd 
 author: srmoore5
 title: Sierra Meet-up Reflection
 date: 2014-04-27
@@ -35,7 +35,7 @@ I felt out of my element at times, but attending meetups is no longer daunting f
 to being a student, my age or my race at all. I met plenty of coders of color, a few veterans, a lesbian lady, a gamer,
 a hilarious child of one of the organizers and even saw a few fellow INLS 560 people. After one meet-up I actually received messages thanking me for attending
 and a few people were sent messages indicating that they were interested in networking with me. It was wonderful to see how inviting and non-competitive most 
-people were to inexperienced recent converts.i
+people were to inexperienced recent converts.
 
 Live long and hack on
 
